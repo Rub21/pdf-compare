@@ -1,0 +1,19 @@
+{
+  "name": "pdfcompare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "line-by-line": "^0.1.6",
+    "minimist": "^1.2.0",
+    "pdf2json": "^1.1.7",
+    "pdfreader": "^0.2.5",
+    "string-similarity": "^1.2.1",
+    "underscore": "^1.9.1"
+  }
+}
